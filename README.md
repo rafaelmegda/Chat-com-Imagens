@@ -39,3 +39,7 @@ Após criar o banco de Dados, inclua as tabelas direto no PHPMyAdmin
         ALTER TABLE `Mensagens` ADD CONSTRAINT `Mensagens_fk0` FOREIGN KEY (`remetente`) REFERENCES `Usuarios`(`id`);
 
         ALTER TABLE `Mensagens` ADD CONSTRAINT `Mensagens_fk1` FOREIGN KEY (`sala`) REFERENCES `Sala`(`id`);
+        
+ # Arquivos que fazem Conexão com o banco
+ 
+ É necessário incluir seu usuário e senha do PHPMyAdmin
