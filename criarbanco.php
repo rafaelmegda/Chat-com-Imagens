@@ -9,7 +9,7 @@
 
 $servidor = "localhost";
 $usuario = "root";
-$senha = "toor";
+$senha = "";
 
 $conexao = new mysqli($servidor, $usuario, $senha);
 if( $conexao->connect_error ) {
