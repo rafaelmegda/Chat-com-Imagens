@@ -5,6 +5,8 @@ Código básico para estudos
 # Criando as tabelas
 
 Após criar o banco de Dados, inclua as tabelas direto no PHPMyAdmin
+
+
         CREATE TABLE `Usuarios` (
           `id` INT NOT NULL AUTO_INCREMENT,
           `nome` varchar(255) NOT NULL,
