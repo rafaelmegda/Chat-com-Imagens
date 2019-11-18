@@ -2,6 +2,10 @@
 
 Código básico para estudos
 
+# Instale o WampServer para ter acesso ao localhost 
+
+* http://www.wampserver.com/en/
+
 # Criando as tabelas
 
 Após criar o banco de Dados, inclua as tabelas direto no PHPMyAdmin
