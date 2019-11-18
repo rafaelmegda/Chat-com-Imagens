@@ -9,7 +9,7 @@
 
 $servidor = "localhost";
 $usuario = "root";
-$senha = "toor";
+$senha = "";
 $banco = "chat";
 
 $conexao = new mysqli($servidor, $usuario, $senha, $banco);
